@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Booklife</string>
+    <string name="buy_our_top_sellers_n_40_discount">BUY OUR TOP SELLERS\n @ 40% DISCOUNT</string>
+    <string name="view"><a href="#">View all</a></string>
+</resources>
